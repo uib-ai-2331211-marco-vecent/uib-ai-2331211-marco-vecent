@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Jupyter
+.ipynb_checkpoints
+
+# Data
+*.csv
+*.sqlite
+*.db
+
+# Visuals
+*.png
+*.jpg
+*.jpeg
+
+# IDEs
+.vscode/
+.idea/
