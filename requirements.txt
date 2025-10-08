@@ -1,6 +1,23 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
 seaborn
 scikit-fuzzy
 jupyterlab
+=======
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scikit-fuzzy
+opencv-python
+jupyterlab
+nltk
+joblib
+dill
+torch
+torchvision
+tensorflow
+>>>>>>> 9252db4d0faf6cd2232dc77b4fe06f5c8015fdef

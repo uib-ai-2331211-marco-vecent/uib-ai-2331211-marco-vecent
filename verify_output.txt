@@ -1,0 +1,11 @@
+numpy: OK (version 2.2.6)
+pandas: OK (version 2.3.2)
+matplotlib: OK (version 3.10.6)
+sklearn: OK (version 1.7.2)
+skfuzzy: OK (version 0.5.0)
+cv2: OK (version 4.12.0)
+nltk: OK (version 3.9.1)
+torch: OK (version 2.8.0+cpu)
+tensorflow: OK (version 2.20.0)
+Matplotlib: plot saved to verify_plot.png
+Sklearn iris shape: (150, 4)
